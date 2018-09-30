@@ -1,0 +1,4097 @@
+('C:\\Users\\Luka Lipovac\\Google '
+ 'Drive\\School\\College\\Cooper\\Classes\\Spring 2018\\NLP\\Project '
+ '#2\\build\\Coral_Text_Editor\\out00-PYZ.pyz',
+ [('win32com',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\imp.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('warnings',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\warnings.py',
+   'PYMODULE'),
+  ('enum',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\enum.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\os.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('Spell_Checker',
+   'C:\\Users\\Luka Lipovac\\Google '
+   'Drive\\School\\College\\Cooper\\Classes\\Spring 2018\\NLP\\Project '
+   '#2\\Spell_Checker.py',
+   'PYMODULE'),
+  ('nltk',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\__init__.py',
+   'PYMODULE'),
+  ('nltk.tbl',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tbl\\__init__.py',
+   'PYMODULE'),
+  ('nltk.tbl.erroranalysis',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tbl\\erroranalysis.py',
+   'PYMODULE'),
+  ('nltk.tbl.rule',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tbl\\rule.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('nltk.tbl.feature',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tbl\\feature.py',
+   'PYMODULE'),
+  ('nltk.tbl.template',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tbl\\template.py',
+   'PYMODULE'),
+  ('nltk.wsd',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\wsd.py',
+   'PYMODULE'),
+  ('nltk.misc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\misc\\__init__.py',
+   'PYMODULE'),
+  ('nltk.misc.babelfish',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\misc\\babelfish.py',
+   'PYMODULE'),
+  ('nltk.misc.minimalset',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\misc\\minimalset.py',
+   'PYMODULE'),
+  ('nltk.misc.wordfinder',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\misc\\wordfinder.py',
+   'PYMODULE'),
+  ('nltk.misc.chomsky',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\misc\\chomsky.py',
+   'PYMODULE'),
+  ('nltk.help',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\help.py',
+   'PYMODULE'),
+  ('nltk.data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\data.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('nltk.ccg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\__init__.py',
+   'PYMODULE'),
+  ('nltk.ccg.lexicon',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\lexicon.py',
+   'PYMODULE'),
+  ('nltk.sem.logic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\logic.py',
+   'PYMODULE'),
+  ('nltk.ccg.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\api.py',
+   'PYMODULE'),
+  ('nltk.ccg.chart',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\chart.py',
+   'PYMODULE'),
+  ('nltk.ccg.logic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\logic.py',
+   'PYMODULE'),
+  ('nltk.parse.chart',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\chart.py',
+   'PYMODULE'),
+  ('nltk.parse.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\api.py',
+   'PYMODULE'),
+  ('nltk.ccg.combinator',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\ccg\\combinator.py',
+   'PYMODULE'),
+  ('nltk.downloader',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\downloader.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\util.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\__init__.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.panlex_lite',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\panlex_lite.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.comparative_sents',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\comparative_sents.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.categorized_sents',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\categorized_sents.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.pros_cons',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\pros_cons.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.opinion_lexicon',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\opinion_lexicon.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.reviews',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\reviews.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.mte',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\mte.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.crubadan',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\crubadan.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.nkjp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\nkjp.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.twitter',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\twitter.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.sentiwordnet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\sentiwordnet.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.udhr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\udhr.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.framenet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\framenet.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.semcor',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\semcor.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.lin',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\lin.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.aligned',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\aligned.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.childes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\childes.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.chasen',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\chasen.py',
+   'PYMODULE'),
+  ('nltk.corpus.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\util.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.knbc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\knbc.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.pl196x',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\pl196x.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.ipipan',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\ipipan.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.nombank',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\nombank.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.dependency',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\dependency.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.switchboard',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\switchboard.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.wordnet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\wordnet.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.nps_chat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\nps_chat.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.bnc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\bnc.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.verbnet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\verbnet.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.propbank',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\propbank.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.string_category',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\string_category.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.rte',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\rte.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.ycoe',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\ycoe.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.timit',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\timit.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.toolbox',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\toolbox.py',
+   'PYMODULE'),
+  ('nltk.toolbox',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\toolbox.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.indian',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\indian.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.bracket_parse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\bracket_parse.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.sinica_treebank',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\sinica_treebank.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.ieer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\ieer.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.senseval',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\senseval.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.ppattach',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\ppattach.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.xmldocs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\xmldocs.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.wordlist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\wordlist.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.chunked',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\chunked.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.conll',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\conll.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.cmudict',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\cmudict.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.tagged',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\tagged.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\api.py',
+   'PYMODULE'),
+  ('nltk.corpus.reader.plaintext',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\reader\\plaintext.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('nltk.draw.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\util.py',
+   'PYMODULE'),
+  ('nltk.draw',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\__init__.py',
+   'PYMODULE'),
+  ('nltk.draw.dispersion',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\dispersion.py',
+   'PYMODULE'),
+  ('nltk.draw.tree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\tree.py',
+   'PYMODULE'),
+  ('nltk.draw.cfg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\cfg.py',
+   'PYMODULE'),
+  ('nltk.draw.table',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\draw\\table.py',
+   'PYMODULE'),
+  ('nltk.cluster',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('nltk.cluster.em',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\em.py',
+   'PYMODULE'),
+  ('nltk.cluster.gaac',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\gaac.py',
+   'PYMODULE'),
+  ('nltk.cluster.kmeans',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\kmeans.py',
+   'PYMODULE'),
+  ('nltk.cluster.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\util.py',
+   'PYMODULE'),
+  ('nltk.cluster.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\cluster\\api.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.py26compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\py26compat.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.py31compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\py31compat.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.environment',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing.nosetester',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools.nosetester',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\__init__.py',
+   'PYMODULE'),
+  ('scipy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy.io',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\__init__.py',
+   'PYMODULE'),
+  ('scipy.io.harwell_boeing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\harwell_boeing\\__init__.py',
+   'PYMODULE'),
+  ('scipy.io.harwell_boeing.hb',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\harwell_boeing\\hb.py',
+   'PYMODULE'),
+  ('scipy._lib.six',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\six.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.io.harwell_boeing._fortran_format_parser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\harwell_boeing\\_fortran_format_parser.py',
+   'PYMODULE'),
+  ('scipy.sparse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\csgraph\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._validation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\csgraph\\_validation.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._laplacian',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\csgraph\\_laplacian.py',
+   'PYMODULE'),
+  ('scipy.sparse._matrix_io',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\_matrix_io.py',
+   'PYMODULE'),
+  ('scipy.sparse.extract',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\extract.py',
+   'PYMODULE'),
+  ('scipy.sparse.construct',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\construct.py',
+   'PYMODULE'),
+  ('scipy.sparse.sputils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\sputils.py',
+   'PYMODULE'),
+  ('scipy.sparse.bsr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\bsr.py',
+   'PYMODULE'),
+  ('scipy.sparse.compressed',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\compressed.py',
+   'PYMODULE'),
+  ('scipy._lib._util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_util.py',
+   'PYMODULE'),
+  ('scipy.sparse.data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\data.py',
+   'PYMODULE'),
+  ('scipy.sparse.dia',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\dia.py',
+   'PYMODULE'),
+  ('scipy.sparse.coo',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\coo.py',
+   'PYMODULE'),
+  ('scipy.sparse.dok',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\dok.py',
+   'PYMODULE'),
+  ('scipy.sparse.lil',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\lil.py',
+   'PYMODULE'),
+  ('scipy.sparse.csc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\csc.py',
+   'PYMODULE'),
+  ('scipy.sparse.csr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\csr.py',
+   'PYMODULE'),
+  ('scipy.sparse.spfuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\spfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\base.py',
+   'PYMODULE'),
+  ('scipy._lib._numpy_compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_numpy_compat.py',
+   'PYMODULE'),
+  ('scipy.io.idl',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\idl.py',
+   'PYMODULE'),
+  ('scipy.io.mmio',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\mmio.py',
+   'PYMODULE'),
+  ('scipy.io._fortran',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\_fortran.py',
+   'PYMODULE'),
+  ('scipy.io.netcdf',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\netcdf.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.byteordercodes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\byteordercodes.py',
+   'PYMODULE'),
+  ('scipy.io.matlab',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\__init__.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.mio',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\mio.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.mio5',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\mio5.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.mio5_params',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\mio5_params.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.mio4',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\mio4.py',
+   'PYMODULE'),
+  ('scipy.io.matlab.miobase',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\io\\matlab\\miobase.py',
+   'PYMODULE'),
+  ('scipy.misc.doccer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\misc\\doccer.py',
+   'PYMODULE'),
+  ('scipy.misc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\misc\\__init__.py',
+   'PYMODULE'),
+  ('scipy.misc.pilutil',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\misc\\pilutil.py',
+   'PYMODULE'),
+  ('scipy.special',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\__init__.py',
+   'PYMODULE'),
+  ('scipy.special._spherical_bessel',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\_spherical_bessel.py',
+   'PYMODULE'),
+  ('scipy.special.lambertw',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\lambertw.py',
+   'PYMODULE'),
+  ('scipy.special._ellip_harm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\_ellip_harm.py',
+   'PYMODULE'),
+  ('scipy.special.spfun_stats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.special._logsumexp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\_logsumexp.py',
+   'PYMODULE'),
+  ('scipy.special.basic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\basic.py',
+   'PYMODULE'),
+  ('scipy.special.orthogonal',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special.sf_error',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\special\\sf_error.py',
+   'PYMODULE'),
+  ('scipy.interpolate._pade',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\_pade.py',
+   'PYMODULE'),
+  ('scipy.interpolate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.interpolate._bsplines',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\_bsplines.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_impl',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\_fitpack_impl.py',
+   'PYMODULE'),
+  ('scipy.interpolate.ndgriddata',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.spatial',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial.distance',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\distance.py',
+   'PYMODULE'),
+  ('scipy.spatial._procrustes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.spatial._plotutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\_plotutils.py',
+   'PYMODULE'),
+  ('scipy._lib.decorator',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\decorator.py',
+   'PYMODULE'),
+  ('scipy.spatial._spherical_voronoi',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('scipy.spatial.kdtree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\spatial\\kdtree.py',
+   'PYMODULE'),
+  ('scipy.interpolate._cubic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\_cubic.py',
+   'PYMODULE'),
+  ('scipy.interpolate.polyint',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate.rbf',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\rbf.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack2',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate.interpolate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\interpolate\\fitpack.py',
+   'PYMODULE'),
+  ('scipy.misc.common',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\misc\\common.py',
+   'PYMODULE'),
+  ('scipy.integrate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\base.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.common',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\common.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.lsoda',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.bdf',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\bdf.py',
+   'PYMODULE'),
+  ('scipy.optimize._numdiff',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_numdiff.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._expm_multiply',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\_expm_multiply.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._norm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\_norm.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._onenormest',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\_onenormest.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.matfuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg.basic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\basic.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_svd',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg.misc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\misc.py',
+   'PYMODULE'),
+  ('scipy.linalg.blas',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\blas.py',
+   'PYMODULE'),
+  ('scipy.linalg.lapack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\lapack.py',
+   'PYMODULE'),
+  ('scipy.linalg.flinalg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\flinalg.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.lobpcg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\lobpcg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.lobpcg.lobpcg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\lobpcg\\lobpcg.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.arpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen.arpack.arpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\arpack.py',
+   'PYMODULE'),
+  ('scipy._lib._threadsafety',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_threadsafety.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.interface',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve._add_newdocs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\_add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve.linsolve',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\linsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve._gcrotmk',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\_gcrotmk.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\utils.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lsmr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lsmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lsqr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lsqr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.lgmres',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\lgmres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.minres',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\minres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve.iterative',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\iterative.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.radau',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\radau.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.rk',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\rk.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.ivp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ivp\\ivp.py',
+   'PYMODULE'),
+  ('scipy.integrate._bvp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_bvp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ode',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\_ode.py',
+   'PYMODULE'),
+  ('scipy.integrate.quadpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\quadpack.py',
+   'PYMODULE'),
+  ('scipy.integrate.odepack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\odepack.py',
+   'PYMODULE'),
+  ('scipy.integrate.quadrature',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\integrate\\quadrature.py',
+   'PYMODULE'),
+  ('scipy.optimize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.lsq_linear',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\lsq_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.bvls',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\bvls.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf_linear',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.common',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\common.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.least_squares',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\least_squares.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.dogbox',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\dogbox.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\trf.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_lsq\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentialevolution',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_differentialevolution.py',
+   'PYMODULE'),
+  ('scipy.optimize._hungarian',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_hungarian.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_linprog.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_ip',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_linprog_ip.py',
+   'PYMODULE'),
+  ('scipy.optimize._remove_redundancy',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_remove_redundancy.py',
+   'PYMODULE'),
+  ('scipy.optimize._basinhopping',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_basinhopping.py',
+   'PYMODULE'),
+  ('scipy.optimize.nnls',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\nnls.py',
+   'PYMODULE'),
+  ('scipy.optimize.slsqp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\slsqp.py',
+   'PYMODULE'),
+  ('scipy.optimize.cobyla',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\cobyla.py',
+   'PYMODULE'),
+  ('scipy.optimize.tnc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize.lbfgsb',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\lbfgsb.py',
+   'PYMODULE'),
+  ('scipy.optimize.zeros',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\zeros.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\minpack.py',
+   'PYMODULE'),
+  ('scipy.optimize._root',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_root.py',
+   'PYMODULE'),
+  ('scipy.optimize._spectral',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_spectral.py',
+   'PYMODULE'),
+  ('scipy.optimize.linesearch',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize.nonlin',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize._minimize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_minimize.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_exact',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trustregion_exact.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trustregion.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_krylov',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trustregion_krylov.py',
+   'PYMODULE'),
+  ('scipy.optimize._trlib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trlib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_ncg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trustregion_ncg.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_dogleg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\_trustregion_dogleg.py',
+   'PYMODULE'),
+  ('scipy.optimize.optimize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\optimize\\optimize.py',
+   'PYMODULE'),
+  ('scipy.linalg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.linalg._sketches',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_sketches.py',
+   'PYMODULE'),
+  ('scipy.linalg._procrustes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.linalg._solvers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_solvers.py',
+   'PYMODULE'),
+  ('scipy.linalg.special_matrices',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\special_matrices.py',
+   'PYMODULE'),
+  ('scipy.linalg.matfuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_inv_ssq',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_matfuncs_inv_ssq.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_sqrtm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm.py',
+   'PYMODULE'),
+  ('scipy.linalg._expm_frechet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_expm_frechet.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_polar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_decomp_polar.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_schur',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qz',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\_decomp_qz.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_qr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_cholesky',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_lu',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\decomp_lu.py',
+   'PYMODULE'),
+  ('scipy.linalg.linalg_version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\linalg\\linalg_version.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_lib\\_version.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools.noseclasses',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\utils.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\info.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.__version__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\random\\info.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft.fftpack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\fftpack.py',
+   'PYMODULE'),
+  ('numpy.fft.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\fft\\info.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\linalg\\info.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\lib\\info.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.info',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\core\\info.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.decorators',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools.decorators',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing.nose_tools.parameterized',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\testing\\nose_tools\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.add_newdocs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._import_tools',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_import_tools.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('nltk.lazyimport',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\lazyimport.py',
+   'PYMODULE'),
+  ('nltk.stem',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\__init__.py',
+   'PYMODULE'),
+  ('nltk.stem.rslp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\rslp.py',
+   'PYMODULE'),
+  ('nltk.stem.wordnet',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\wordnet.py',
+   'PYMODULE'),
+  ('nltk.stem.snowball',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\snowball.py',
+   'PYMODULE'),
+  ('nltk.stem.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\util.py',
+   'PYMODULE'),
+  ('nltk.stem.porter',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\porter.py',
+   'PYMODULE'),
+  ('nltk.stem.isri',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\isri.py',
+   'PYMODULE'),
+  ('nltk.stem.lancaster',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\lancaster.py',
+   'PYMODULE'),
+  ('nltk.stem.regexp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\regexp.py',
+   'PYMODULE'),
+  ('nltk.stem.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\stem\\api.py',
+   'PYMODULE'),
+  ('nltk.sem',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\__init__.py',
+   'PYMODULE'),
+  ('nltk.sem.drt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\drt.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('nltk.sem.boxer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\boxer.py',
+   'PYMODULE'),
+  ('nltk.sem.relextract',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\relextract.py',
+   'PYMODULE'),
+  ('nltk.sem.lfg',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\lfg.py',
+   'PYMODULE'),
+  ('nltk.parse.dependencygraph',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\dependencygraph.py',
+   'PYMODULE'),
+  ('nltk.sem.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\util.py',
+   'PYMODULE'),
+  ('nltk.sem.evaluate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\evaluate.py',
+   'PYMODULE'),
+  ('nltk.sem.linearlogic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\linearlogic.py',
+   'PYMODULE'),
+  ('nltk.sem.skolemize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\skolemize.py',
+   'PYMODULE'),
+  ('nltk.translate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\__init__.py',
+   'PYMODULE'),
+  ('nltk.translate.stack_decoder',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\stack_decoder.py',
+   'PYMODULE'),
+  ('nltk.translate.metrics',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\metrics.py',
+   'PYMODULE'),
+  ('nltk.translate.ribes_score',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ribes_score.py',
+   'PYMODULE'),
+  ('nltk.translate.bleu_score',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\bleu_score.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\fractions.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm5',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm5.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm4',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm4.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm3',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm3.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm2',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm2.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm1',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm1.py',
+   'PYMODULE'),
+  ('nltk.translate.ibm_model',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\ibm_model.py',
+   'PYMODULE'),
+  ('nltk.translate.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\translate\\api.py',
+   'PYMODULE'),
+  ('nltk.tokenize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\__init__.py',
+   'PYMODULE'),
+  ('nltk.tokenize.stanford_segmenter',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\stanford_segmenter.py',
+   'PYMODULE'),
+  ('nltk.tokenize.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\api.py',
+   'PYMODULE'),
+  ('nltk.tokenize.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\util.py',
+   'PYMODULE'),
+  ('nltk.tokenize.treebank',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\treebank.py',
+   'PYMODULE'),
+  ('nltk.tokenize.toktok',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\toktok.py',
+   'PYMODULE'),
+  ('nltk.tokenize.texttiling',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\texttiling.py',
+   'PYMODULE'),
+  ('nltk.tokenize.simple',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\simple.py',
+   'PYMODULE'),
+  ('nltk.tokenize.sexpr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\sexpr.py',
+   'PYMODULE'),
+  ('nltk.tokenize.repp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\repp.py',
+   'PYMODULE'),
+  ('nltk.tokenize.regexp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\regexp.py',
+   'PYMODULE'),
+  ('nltk.tokenize.punkt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\punkt.py',
+   'PYMODULE'),
+  ('nltk.tokenize.mwe',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\mwe.py',
+   'PYMODULE'),
+  ('nltk.tokenize.casual',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tokenize\\casual.py',
+   'PYMODULE'),
+  ('nltk.tag',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\__init__.py',
+   'PYMODULE'),
+  ('nltk.tag.perceptron',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\perceptron.py',
+   'PYMODULE'),
+  ('nltk.tag.crf',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\crf.py',
+   'PYMODULE'),
+  ('nltk.tag.mapping',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\mapping.py',
+   'PYMODULE'),
+  ('nltk.tag.senna',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\senna.py',
+   'PYMODULE'),
+  ('nltk.tag.hmm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\hmm.py',
+   'PYMODULE'),
+  ('nltk.tag.stanford',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\stanford.py',
+   'PYMODULE'),
+  ('nltk.parse.corenlp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\corenlp.py',
+   'PYMODULE'),
+  ('nltk.tag.hunpos',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\hunpos.py',
+   'PYMODULE'),
+  ('nltk.tag.tnt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\tnt.py',
+   'PYMODULE'),
+  ('nltk.tag.brill_trainer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\brill_trainer.py',
+   'PYMODULE'),
+  ('nltk.tag.brill',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\brill.py',
+   'PYMODULE'),
+  ('nltk.tag.sequential',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\sequential.py',
+   'PYMODULE'),
+  ('nltk.tag.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\util.py',
+   'PYMODULE'),
+  ('nltk.tag.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tag\\api.py',
+   'PYMODULE'),
+  ('nltk.parse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\__init__.py',
+   'PYMODULE'),
+  ('nltk.parse.bllip',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\bllip.py',
+   'PYMODULE'),
+  ('nltk.parse.transitionparser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\transitionparser.py',
+   'PYMODULE'),
+  ('sklearn.svm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\svm\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.svm.bounds',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\svm\\bounds.py',
+   'PYMODULE'),
+  ('sklearn.utils.extmath',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\extmath.py',
+   'PYMODULE'),
+  ('sklearn.utils.fixes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\fixes.py',
+   'PYMODULE'),
+  ('sklearn.utils._scipy_sparse_lsqr_backport',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\_scipy_sparse_lsqr_backport.py',
+   'PYMODULE'),
+  ('sklearn.externals.funcsigs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\funcsigs.py',
+   'PYMODULE'),
+  ('sklearn.externals',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals.six',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\six.py',
+   'PYMODULE'),
+  ('sklearn.utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.utils.deprecation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('sklearn.exceptions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\exceptions.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.parallel',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\parallel.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib._compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\_compat.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib._parallel_backends',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\_parallel_backends.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.pool',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\pool.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.backports',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\backports.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.disk',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\disk.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.my_exceptions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\my_exceptions.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.format_stack',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\format_stack.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib._multiprocessing_helpers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\_multiprocessing_helpers.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.logger',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\logger.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.memory',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\memory.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib._memory_helpers',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\_memory_helpers.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.func_inspect',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\func_inspect.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.numpy_pickle',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\numpy_pickle.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.numpy_pickle_compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\numpy_pickle_compat.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.numpy_pickle_utils',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\numpy_pickle_utils.py',
+   'PYMODULE'),
+  ('sklearn.externals.joblib.hashing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\externals\\joblib\\hashing.py',
+   'PYMODULE'),
+  ('sklearn.utils.class_weight',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\class_weight.py',
+   'PYMODULE'),
+  ('sklearn.utils.validation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\validation.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\preprocessing\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing.imputation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\preprocessing\\imputation.py',
+   'PYMODULE'),
+  ('sklearn.utils.sparsefuncs',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\sparsefuncs.py',
+   'PYMODULE'),
+  ('sklearn.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\base.py',
+   'PYMODULE'),
+  ('sklearn.metrics',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics.scorer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\scorer.py',
+   'PYMODULE'),
+  ('sklearn.utils.multiclass',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\multiclass.py',
+   'PYMODULE'),
+  ('sklearn.metrics.regression',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\regression.py',
+   'PYMODULE'),
+  ('sklearn.metrics.pairwise',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\pairwise.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.kernels',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\kernels.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.gaussian_process',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\gaussian_process.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.correlation_models',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\correlation_models.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.regression_models',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\regression_models.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.gpc',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\gpc.py',
+   'PYMODULE'),
+  ('sklearn.multiclass',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\multiclass.py',
+   'PYMODULE'),
+  ('sklearn.utils.metaestimators',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\metaestimators.py',
+   'PYMODULE'),
+  ('sklearn.gaussian_process.gpr',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\gaussian_process\\gpr.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\cluster\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster.bicluster',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\cluster\\bicluster.py',
+   'PYMODULE'),
+  ('sklearn.utils.linear_assignment_',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\linear_assignment_.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster.unsupervised',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\cluster\\unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.metrics.cluster.supervised',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\cluster\\supervised.py',
+   'PYMODULE'),
+  ('sklearn.metrics.classification',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\classification.py',
+   'PYMODULE'),
+  ('sklearn.metrics.ranking',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\ranking.py',
+   'PYMODULE'),
+  ('sklearn.metrics.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\metrics\\base.py',
+   'PYMODULE'),
+  ('scipy.stats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._multivariate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_multivariate.py',
+   'PYMODULE'),
+  ('scipy.stats.contingency',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\contingency.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\mstats.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_extras',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats.kde',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\kde.py',
+   'PYMODULE'),
+  ('scipy.stats._binned_statistic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_binned_statistic.py',
+   'PYMODULE'),
+  ('scipy.stats.morestats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\morestats.py',
+   'PYMODULE'),
+  ('scipy.stats._distn_infrastructure',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py',
+   'PYMODULE'),
+  ('scipy.stats._constants',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_constants.py',
+   'PYMODULE'),
+  ('scipy.stats._distr_params',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_distr_params.py',
+   'PYMODULE'),
+  ('scipy.stats.stats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\stats.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_mstats_common',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_basic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats.distributions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\distributions.py',
+   'PYMODULE'),
+  ('scipy.stats._discrete_distns',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_discrete_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._continuous_distns',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_continuous_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._tukeylambda_stats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing.label',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\preprocessing\\label.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing.data',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\preprocessing\\data.py',
+   'PYMODULE'),
+  ('sklearn.preprocessing._function_transformer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\preprocessing\\_function_transformer.py',
+   'PYMODULE'),
+  ('sklearn.svm.classes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\svm\\classes.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\base.py',
+   'PYMODULE'),
+  ('sklearn.linear_model',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.theil_sen',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\theil_sen.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.ransac',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\ransac.py',
+   'PYMODULE'),
+  ('sklearn.utils.random',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\random.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.randomized_l1',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\randomized_l1.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\base.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.mutual_info_',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\mutual_info_.py',
+   'PYMODULE'),
+  ('sklearn.neighbors',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.lof',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\lof.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\base.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.approximate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\approximate.py',
+   'PYMODULE'),
+  ('sklearn.random_projection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\random_projection.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.kde',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\kde.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.nearest_centroid',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\nearest_centroid.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.regression',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\regression.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.classification',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\classification.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.unsupervised',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\unsupervised.py',
+   'PYMODULE'),
+  ('sklearn.neighbors.graph',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\neighbors\\graph.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.from_model',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\from_model.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.rfe',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\rfe.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._validation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\model_selection\\_validation.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._split',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\model_selection\\_split.py',
+   'PYMODULE'),
+  ('sklearn.model_selection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\model_selection\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.model_selection._search',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\model_selection\\_search.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.variance_threshold',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\variance_threshold.py',
+   'PYMODULE'),
+  ('sklearn.feature_selection.univariate_selection',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_selection\\univariate_selection.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.perceptron',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\perceptron.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.passive_aggressive',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\passive_aggressive.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.omp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\omp.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.logistic',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\logistic.py',
+   'PYMODULE'),
+  ('sklearn.utils.optimize',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\optimize.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.sag',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\sag.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.ridge',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\ridge.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.stochastic_gradient',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\stochastic_gradient.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.huber',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\huber.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.coordinate_descent',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\coordinate_descent.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.least_angle',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\least_angle.py',
+   'PYMODULE'),
+  ('sklearn.linear_model.bayes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\linear_model\\bayes.py',
+   'PYMODULE'),
+  ('sklearn.svm.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\svm\\base.py',
+   'PYMODULE'),
+  ('sklearn',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.__check_build',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\__check_build\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.datasets',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.datasets.rcv1',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\rcv1.py',
+   'PYMODULE'),
+  ('sklearn.datasets.california_housing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\california_housing.py',
+   'PYMODULE'),
+  ('sklearn.datasets.species_distributions',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\species_distributions.py',
+   'PYMODULE'),
+  ('sklearn.datasets.olivetti_faces',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\olivetti_faces.py',
+   'PYMODULE'),
+  ('sklearn.datasets.svmlight_format',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\svmlight_format.py',
+   'PYMODULE'),
+  ('sklearn.datasets.samples_generator',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\samples_generator.py',
+   'PYMODULE'),
+  ('sklearn.datasets.mldata',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\mldata.py',
+   'PYMODULE'),
+  ('sklearn.utils.testing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\utils\\testing.py',
+   'PYMODULE'),
+  ('sklearn.datasets.twenty_newsgroups',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\twenty_newsgroups.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction.text',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\text.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\__init__.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction.image',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\image.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction.dict_vectorizer',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\dict_vectorizer.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction.stop_words',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\stop_words.py',
+   'PYMODULE'),
+  ('sklearn.feature_extraction.hashing',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\feature_extraction\\hashing.py',
+   'PYMODULE'),
+  ('sklearn.datasets.lfw',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\lfw.py',
+   'PYMODULE'),
+  ('sklearn.datasets.mlcomp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\mlcomp.py',
+   'PYMODULE'),
+  ('sklearn.datasets.kddcup99',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\kddcup99.py',
+   'PYMODULE'),
+  ('sklearn.datasets.covtype',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\covtype.py',
+   'PYMODULE'),
+  ('sklearn.datasets.base',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\datasets\\base.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('nltk.parse.evaluate',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\evaluate.py',
+   'PYMODULE'),
+  ('nltk.parse.malt',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\malt.py',
+   'PYMODULE'),
+  ('nltk.parse.nonprojectivedependencyparser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\nonprojectivedependencyparser.py',
+   'PYMODULE'),
+  ('nltk.parse.projectivedependencyparser',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\projectivedependencyparser.py',
+   'PYMODULE'),
+  ('nltk.parse.viterbi',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\viterbi.py',
+   'PYMODULE'),
+  ('nltk.parse.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\util.py',
+   'PYMODULE'),
+  ('nltk.parse.shiftreduce',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\shiftreduce.py',
+   'PYMODULE'),
+  ('nltk.parse.recursivedescent',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\recursivedescent.py',
+   'PYMODULE'),
+  ('nltk.parse.earleychart',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\earleychart.py',
+   'PYMODULE'),
+  ('nltk.parse.featurechart',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\featurechart.py',
+   'PYMODULE'),
+  ('pstats',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\pstats.py',
+   'PYMODULE'),
+  ('profile',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\profile.py',
+   'PYMODULE'),
+  ('nltk.parse.pchart',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\parse\\pchart.py',
+   'PYMODULE'),
+  ('nltk.metrics',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('nltk.metrics.aline',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\aline.py',
+   'PYMODULE'),
+  ('nltk.metrics.spearman',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\spearman.py',
+   'PYMODULE'),
+  ('nltk.metrics.association',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\association.py',
+   'PYMODULE'),
+  ('nltk.metrics.agreement',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\agreement.py',
+   'PYMODULE'),
+  ('nltk.metrics.segmentation',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\segmentation.py',
+   'PYMODULE'),
+  ('nltk.metrics.paice',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\paice.py',
+   'PYMODULE'),
+  ('nltk.metrics.distance',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\distance.py',
+   'PYMODULE'),
+  ('nltk.metrics.confusionmatrix',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\confusionmatrix.py',
+   'PYMODULE'),
+  ('nltk.metrics.scores',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\metrics\\scores.py',
+   'PYMODULE'),
+  ('nltk.inference',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\__init__.py',
+   'PYMODULE'),
+  ('nltk.inference.discourse',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\discourse.py',
+   'PYMODULE'),
+  ('nltk.sem.glue',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\sem\\glue.py',
+   'PYMODULE'),
+  ('nltk.inference.tableau',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\tableau.py',
+   'PYMODULE'),
+  ('nltk.inference.resolution',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\resolution.py',
+   'PYMODULE'),
+  ('nltk.inference.prover9',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\prover9.py',
+   'PYMODULE'),
+  ('nltk.inference.mace',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\mace.py',
+   'PYMODULE'),
+  ('nltk.inference.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\inference\\api.py',
+   'PYMODULE'),
+  ('nltk.classify',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\__init__.py',
+   'PYMODULE'),
+  ('nltk.classify.textcat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\textcat.py',
+   'PYMODULE'),
+  ('nltk.classify.senna',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\senna.py',
+   'PYMODULE'),
+  ('nltk.classify.maxent',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\maxent.py',
+   'PYMODULE'),
+  ('nltk.classify.tadm',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\tadm.py',
+   'PYMODULE'),
+  ('nltk.classify.scikitlearn',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\scikitlearn.py',
+   'PYMODULE'),
+  ('sklearn.naive_bayes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\sklearn\\naive_bayes.py',
+   'PYMODULE'),
+  ('nltk.classify.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\util.py',
+   'PYMODULE'),
+  ('nltk.classify.rte_classify',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\rte_classify.py',
+   'PYMODULE'),
+  ('nltk.classify.decisiontree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\decisiontree.py',
+   'PYMODULE'),
+  ('nltk.classify.positivenaivebayes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\positivenaivebayes.py',
+   'PYMODULE'),
+  ('nltk.classify.naivebayes',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\naivebayes.py',
+   'PYMODULE'),
+  ('nltk.classify.weka',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\weka.py',
+   'PYMODULE'),
+  ('nltk.classify.megam',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\megam.py',
+   'PYMODULE'),
+  ('nltk.classify.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\classify\\api.py',
+   'PYMODULE'),
+  ('nltk.chunk',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\chunk\\__init__.py',
+   'PYMODULE'),
+  ('nltk.chunk.regexp',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\chunk\\regexp.py',
+   'PYMODULE'),
+  ('nltk.chunk.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\chunk\\util.py',
+   'PYMODULE'),
+  ('nltk.chunk.api',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\chunk\\api.py',
+   'PYMODULE'),
+  ('nltk.jsontags',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\jsontags.py',
+   'PYMODULE'),
+  ('nltk.util',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\util.py',
+   'PYMODULE'),
+  ('nltk.collections',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\collections.py',
+   'PYMODULE'),
+  ('nltk.tree',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\tree.py',
+   'PYMODULE'),
+  ('nltk.treeprettyprinter',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\treeprettyprinter.py',
+   'PYMODULE'),
+  ('nltk.text',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\text.py',
+   'PYMODULE'),
+  ('nltk.probability',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\probability.py',
+   'PYMODULE'),
+  ('nltk.grammar',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\grammar.py',
+   'PYMODULE'),
+  ('nltk.featstruct',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\featstruct.py',
+   'PYMODULE'),
+  ('nltk.decorators',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\decorators.py',
+   'PYMODULE'),
+  ('nltk.collocations',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\collocations.py',
+   'PYMODULE'),
+  ('nltk.corpus',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\corpus\\__init__.py',
+   'PYMODULE'),
+  ('nltk.treetransforms',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\treetransforms.py',
+   'PYMODULE'),
+  ('nltk.internals',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\internals.py',
+   'PYMODULE'),
+  ('nltk.compat',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\nltk\\compat.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\luka '
+   'lipovac\\appdata\\local\\programs\\python\\python36-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('Text_Editor',
+   'C:\\Users\\Luka Lipovac\\Google '
+   'Drive\\School\\College\\Cooper\\Classes\\Spring 2018\\NLP\\Project '
+   '#2\\Text_Editor.py',
+   'PYMODULE')])
